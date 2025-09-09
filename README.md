@@ -7,7 +7,7 @@
     <br>
     <p>
       <strong>
-        Computer Science and Software Engineering Student, passionate about technology and problem solving.<br><br>
+        Software Engineering Student, passionate about technology and problem solving.<br><br>
         I am currently studying Informatics Engineering and learning how to build software step by step.  
         Interested in Back-End Development, Databases, Object-Oriented Programming, and Cloud Computing.<br><br>
         My goal is to keep improving my coding skills while working on personal and academic projects.  
